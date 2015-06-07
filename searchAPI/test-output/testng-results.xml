@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2498" started-at="2015-06-07T22:06:14Z" finished-at="2015-06-07T22:06:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2498" started-at="2015-06-07T22:06:14Z" finished-at="2015-06-07T22:06:16Z">
+      <class name="com.searchAPITest.HttpURLConnectionExample_GETTest">
+        <test-method status="PASS" signature="sendGet()[pri:0, instance:com.searchAPITest.HttpURLConnectionExample_GETTest@675690]" name="sendGet" duration-ms="1605" started-at="2015-06-07T15:06:14Z" finished-at="2015-06-07T15:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGet -->
+        <test-method status="PASS" signature="sendGet_1()[pri:0, instance:com.searchAPITest.HttpURLConnectionExample_GETTest@675690]" name="sendGet_1" duration-ms="485" started-at="2015-06-07T15:06:15Z" finished-at="2015-06-07T15:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGet_1 -->
+        <test-method status="PASS" signature="sendGet_2()[pri:0, instance:com.searchAPITest.HttpURLConnectionExample_GETTest@675690]" name="sendGet_2" duration-ms="366" started-at="2015-06-07T15:06:16Z" finished-at="2015-06-07T15:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGet_2 -->
+      </class> <!-- com.searchAPITest.HttpURLConnectionExample_GETTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

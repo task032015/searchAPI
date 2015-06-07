@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dimon/Downloads/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dimon/Downloads/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dimon/Downloads/com.sun.net.ssl.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Dimon/Desktop/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dimon/Desktop/javax.net.ssl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
